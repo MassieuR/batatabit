@@ -112,7 +112,7 @@ main {
     width: 195px;
     height: 195px;
     margin: 0 auto;
-    background-image: url(/assets/img/bitcoin.svg);
+    background-image: url("assets/img/bitcoin.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -552,7 +552,7 @@ footer {
     display: block;
     width: 40px;
     height: 24px;
-    background-image: url('/assets/icons/batata.svg');
+    background-image: url('assets/icons/batata.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
